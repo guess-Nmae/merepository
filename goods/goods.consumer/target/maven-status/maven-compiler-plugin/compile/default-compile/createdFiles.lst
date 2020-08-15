@@ -1,0 +1,5 @@
+com\zb\controller\DetailController.class
+com\zb\service\DetailService.class
+com\zb\service\impl\DetailServiceImpl.class
+com\zb\ConSumerApp.class
+com\zb\feign\DetailFeign.class

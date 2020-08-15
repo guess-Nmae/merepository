@@ -1,0 +1,6 @@
+com\zb\mapper\DetailMapper.class
+com\zb\controller\DetailController.class
+com\zb\service\DetailService.class
+com\zb\ProviderApp.class
+com\zb\service\impl\DetailServiceImpl.class
+com\zb\mapper\SortMapper.class
